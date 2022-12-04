@@ -8,7 +8,10 @@
     ]
   },
   "devDependencies": {
-    "@redwoodjs/core": "3.5.0"
+    "@babel/core": "^7.20.5",
+    "@mdx-js/react": "^1.6.22",
+    "@redwoodjs/core": "3.5.0",
+    "babel-loader": "^8.3.0"
   },
   "eslintConfig": {
     "extends": "@redwoodjs/eslint-config",
